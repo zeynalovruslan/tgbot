@@ -4,7 +4,7 @@
 
 Bu project Java və Spring Boot istifadə edilərək hazırlanmış **Telegram Bot Backend**-dir.
 Sistem istifadəçilər üçün **OTP əsaslı login**, **session idarəetməsi** və **state-based istifadəçi axınları** təmin edir.
-Project real backend prinsiplərinə uyğun olaraq qurulub və CV üçün Junior Java Backend səviyyəsinə uyğundur.
+Project real backend prinsiplərinə uyğun olaraq qurulub.
 
 ---
 
