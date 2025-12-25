@@ -47,7 +47,7 @@ public class TurboAzSearchServiceImpl implements TurboAzSearchService {
                     .timeout(10_000)
                     .get();
 
-            Elements ads = doc.select(".products-i"); // turbo.az elan blocku
+            Elements ads = doc.select(".products-i"); 
 
             List<CarAddDto> result = new ArrayList<>();
 
